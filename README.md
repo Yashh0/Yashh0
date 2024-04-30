@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashh0&label=Profile%20views&color=0e75b6&style=flat" alt="yashh0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashh0" alt="yashh0" /></a> </p>
+
 
 - 🔭 I’m currently working on **Mutlithreaded Webserver which can handle upto Million requests**
 
